@@ -1,1 +1,1 @@
-# dp_genai
+# Data Programming with GenAI
